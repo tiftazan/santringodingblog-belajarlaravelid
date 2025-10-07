@@ -1,1 +1,0 @@
-file ini hanya utuk belajar Git
